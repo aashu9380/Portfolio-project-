@@ -1,3 +1,23 @@
-# Portfolio Project
-This is my sample front-end / Java project.
-I'm learning full stack development and building small apps using React, Spring Boot and HTML/CSS
+# 👋 Hi, I'm Ashwini Patil
+
+🎓 I'm a **Java Full Stack Developer** with a passion for creating clean, user-friendly web applications.  
+🌱 Currently learning: UI/UX, React, and Spring Boot  
+💼 Looking for: Internship / Fresher Role  
+📫 Reach me at: ashwini3131.sp@gmail.com
+
+---
+
+### 🛠️ Tech Stack
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Backend**: Java, Spring Boot
+- **Tools**: Git, GitHub, VS Code
+
+---
+
+### 🔥 Projects
+- [💼 Portfolio Project](https://github.com/aashu9380/portfolio-project)
+
+---
+
+### 📈 GitHub Stats
+![Ashwini's GitHub stats](https://github-readme-stats.vercel.app/api?username=aashu9380&show_icons=true&theme=radical)
