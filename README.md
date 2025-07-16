@@ -15,7 +15,10 @@
 ---
 
 ### 🔥 Projects
-- [💼 Portfolio Project](https://github.com/aashu9380/portfolio-project)
+
+#### 💼 Portfolio Project  
+- 🔗 **Live Demo**: [Click here to view](https://aashu9380.github.io/Portfolio-project-/)  
+- 📁 **Code**: [GitHub Repository](https://github.com/aashu9380/Portfolio-project-)
 
 ---
 
